@@ -11,11 +11,8 @@ MERN Stack Developer | Turning ideas into Full-Stack web applications with Mongo
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Aakash's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Aakash's Top Languages" />
+  <img src="./profile/stats.svg" width="49%" alt="Aakash's GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="41%" alt="Aakash's Top Languages" />
 </p>
 
 ---
