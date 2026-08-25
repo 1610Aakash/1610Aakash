@@ -11,15 +11,15 @@ MERN Stack Developer | Turning ideas into Full-Stack web applications with Mongo
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1610Aakash&show_icons=true&theme=dark&hide_border=true" alt="Aakash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1610Aakash&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&v=2" alt="Aakash's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=1610Aakash&theme=dark&hide_border=true" alt="Aakash's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=1610Aakash&theme=dark&hide_border=true&v=2" alt="Aakash's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1610Aakash&layout=compact&theme=dark&hide_border=true" alt="Aakash's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1610Aakash&layout=compact&theme=dark&hide_border=true&cache_seconds=86400&v=2" alt="Aakash's Top Languages" />
 </p>
 
 ---
